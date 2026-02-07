@@ -1,0 +1,11 @@
+# Prompt files
+*.txt
+!README.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
