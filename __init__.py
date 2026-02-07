@@ -14,10 +14,10 @@
 
 bl_info = {
     "name": "Slack Cable Generator",
-    "author": "SaaS Script",
+    "author": "ramooscripts",
     "version": (1, 1, 0),
     "blender": (3, 0, 0),
-    "location": "View3D > Sidebar > SaaS Tools",
+    "location": "View3D > Sidebar > ramooscripts",
     "description": "Create cables, pipes, and conduits with catenary curve and materials",
     "category": "Add Curve",
 }
@@ -449,7 +449,7 @@ class SCG_PT_main_panel(bpy.types.Panel):
     bl_idname = "SCG_PT_main_panel"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
-    bl_category = "SaaS Tools"
+    bl_category = "ramooscripts"
     
     def draw(self, context):
         layout = self.layout

@@ -23,7 +23,7 @@ A Blender addon for creating realistic cables, pipes, and electrical conduits wi
 
 ## Usage
 
-1. Open the **SaaS Tools** panel in the 3D Viewport sidebar (N key)
+1. Open the **ramooscripts** panel in the 3D Viewport sidebar (N key)
 2. Select two objects as start/end points
 3. Adjust slack, thickness, and resolution
 4. Click the desired cable type button
@@ -43,7 +43,7 @@ A Blender addon for creating realistic cables, pipes, and electrical conduits wi
 
 ## Author
 
-**SaaS Script**
+**ramooscripts**
 
 ---
 
